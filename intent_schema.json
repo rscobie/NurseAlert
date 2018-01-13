@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GetNeed",
+      "slots": [
+        {
+          "name": "NeedType",
+          "type": "PatientNeed"
+        }
+      ]
+    }
+  ]
+}

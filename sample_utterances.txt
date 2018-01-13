@@ -1,0 +1,4 @@
+GetNeed I need {NeedType}
+GetNeed I want {NeedType}
+GetNeed I'd like {NeedType}
+GetNeed can I have {NeedType}
